@@ -1,0 +1,39 @@
+package chapter04;
+
+// 클래스 생성 (Book, Person, ...)
+class Player {
+	String job; // 직업
+	int level; // 레벨
+	
+	void displayInfo() {
+		System.out.println("play의 직업은 " + job + " 레벨은" + level);
+	}
+
+	Player(String job, int level) {
+		this.job = job;
+		this.level = level;
+	}
+}
+
+public class Object04 {
+	public static void main(String[] args) {
+		// 위에서 정의한 클래스를 사용하여 객체 인스턴스화
+	Player play1 = new Player("전사", 55);
+	Player play2 = new Player("마법사", 45);
+	Player play3 = new Player("궁수", 50);
+	
+		// 속성 출력
+	System.out.println(play1.job);	
+	System.out.println(play1.level);
+	System.out.println(play2.job);	
+	System.out.println(play2.level);
+	System.out.println(play3.job);	
+	System.out.println(play3.level);
+		// 메서드 호출
+	
+	
+	play1.displayInfo();
+	play2.displayInfo();
+	play3.displayInfo();
+	}
+}	

@@ -16,6 +16,7 @@ public class D_IO {
 		
 		System.out.println("안녕하세요");
 		System.out.println("반갑습니다");
+		// >> 주어진 값을 콘솔에 출력하고 줄을 바꿈
 		// ln: line (줄바꿈)
 		
 		System.out.print("안녕");

@@ -16,7 +16,7 @@ public class D_While {
 		int num = 1;
 		
 		while(num <= 5) {
-			System.out.println(num);
+			System.out.print(num+ " ");
 			num++;
 		}
 		System.out.println(" ");
@@ -32,7 +32,7 @@ public class D_While {
 			}
 			
 			// 홀수만 아래의 내용이 실행
-			System.out.println(number);
+			System.out.print(number + " ");
 			number++;
 			if(number == 20) break;
 		}
