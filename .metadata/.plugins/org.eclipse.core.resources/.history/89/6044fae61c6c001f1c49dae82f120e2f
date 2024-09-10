@@ -1,0 +1,11 @@
+package chapter07;
+
+//class DefaultClass() {
+//	
+//}
+
+public class B_Modifire {
+	public static void main(String[] args) {
+		
+	}
+}
