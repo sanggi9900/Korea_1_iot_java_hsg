@@ -1,0 +1,5 @@
+package chapter15.view;
+
+public class BookView {
+
+}

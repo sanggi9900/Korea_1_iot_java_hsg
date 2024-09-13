@@ -7,6 +7,7 @@
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
 		<list key="findhistory">
+			<item value="&#x09;};"/>
 			<item value="[C++, 파이썬, 자바스크립트]"/>
 			<item value="ㅊ"/>
 		</list>
