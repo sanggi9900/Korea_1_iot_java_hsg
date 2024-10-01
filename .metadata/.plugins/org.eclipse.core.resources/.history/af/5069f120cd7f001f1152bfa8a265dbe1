@@ -1,0 +1,11 @@
+package main;
+
+import java.util.Scanner;
+
+public class UserManger {
+	public void run() throws SQLException {
+		Scanner sc = new Scanner(System.in);
+		
+		UserDAO userDao = new 
+	}
+}

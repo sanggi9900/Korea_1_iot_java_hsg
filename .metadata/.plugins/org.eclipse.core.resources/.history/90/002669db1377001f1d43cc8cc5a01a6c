@@ -1,5 +1,0 @@
-package chapter20.reservation.repository;
-
-public class ReservationRepository {
-
-}

@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="chapter16.School"/>
-    <fullyQualifiedTypeName name="chapter16.School.Teacher"/>
-    <fullyQualifiedTypeName name="chapter16.Example"/>
-    <fullyQualifiedTypeName name="chapter16.Grading"/>
-    <fullyQualifiedTypeName name="chapter16.Student"/>
-    <fullyQualifiedTypeName name="SundayAction"/>
-    <fullyQualifiedTypeName name="java.awt.Label"/>
-    <fullyQualifiedTypeName name="chapter16.Animal"/>
     <fullyQualifiedTypeName name="java.lang.ArrayStoreException"/>
     <fullyQualifiedTypeName name="java.util.stream.Stream"/>
     <fullyQualifiedTypeName name="java.util.Map"/>
@@ -26,7 +18,6 @@
     <fullyQualifiedTypeName name="chapter19.Animal"/>
     <fullyQualifiedTypeName name="chapter19.Vehical"/>
     <fullyQualifiedTypeName name="chapter19.Person"/>
-    <fullyQualifiedTypeName name="java.lang.Override"/>
     <fullyQualifiedTypeName name="java.lang.Comparable"/>
     <fullyQualifiedTypeName name="java.util.function.Function"/>
     <fullyQualifiedTypeName name="java.util.Comparator"/>
@@ -54,10 +45,19 @@
     <fullyQualifiedTypeName name="chapter20.Library2.controller.LibraryController"/>
     <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="chapter20.reservation.service.ReservationService"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
-    <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="chapter20.reservation.controller.ReservationController"/>
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="chapter20.reservation.model.Reservation"/>
     <fullyQualifiedTypeName name="chapter20.reservation.repository.ReservationRepository"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.lang.Exception"/>
+    <fullyQualifiedTypeName name="korea_1_iot_jdbc.main.UserManager"/>
+    <fullyQualifiedTypeName name="korea_1_iot_jdbc.dao.UserDAO"/>
+    <fullyQualifiedTypeName name="korea_1_iot_jdbc.entity.User"/>
+    <fullyQualifiedTypeName name="korea_1_iot_jdbc.db.DBConnection"/>
+    <fullyQualifiedTypeName name="korea_1_iot.jdbc.dao.UserDAO"/>
+    <fullyQualifiedTypeName name="korea_1_iot.jdbc.entity.User"/>
+    <fullyQualifiedTypeName name="korea_1_iot.jdbc.main.UserManager"/>
 </qualifiedTypeNameHistroy>
