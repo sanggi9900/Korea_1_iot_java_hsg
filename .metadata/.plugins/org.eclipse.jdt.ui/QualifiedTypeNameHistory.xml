@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="java.lang.ArrayStoreException"/>
-    <fullyQualifiedTypeName name="java.util.stream.Stream"/>
-    <fullyQualifiedTypeName name="java.util.Map"/>
-    <fullyQualifiedTypeName name="java.util.HashMap"/>
-    <fullyQualifiedTypeName name="java.util.stream.Collector"/>
-    <fullyQualifiedTypeName name="java.util.stream.Collectors"/>
     <fullyQualifiedTypeName name="chapter15.Library"/>
     <fullyQualifiedTypeName name="chapter18.Product"/>
     <fullyQualifiedTypeName name="chapter18.Product.Builder"/>
@@ -24,12 +18,10 @@
     <fullyQualifiedTypeName name="java.util.Arrays"/>
     <fullyQualifiedTypeName name="java.util.Collections"/>
     <fullyQualifiedTypeName name="java.util.function.Predicate"/>
-    <fullyQualifiedTypeName name="java.lang.Integer"/>
     <fullyQualifiedTypeName name="java.util.function.Supplier"/>
     <fullyQualifiedTypeName name="java.util.concurrent.ConcurrentHashMap"/>
     <fullyQualifiedTypeName name="java.util.function.Consumer"/>
     <fullyQualifiedTypeName name="java.lang.FunctionalInterface"/>
-    <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="chapter19.Modification"/>
     <fullyQualifiedTypeName name="chapter19.Z_Exception"/>
     <fullyQualifiedTypeName name="chapter19.CustomExceptiuon"/>
@@ -43,21 +35,29 @@
     <fullyQualifiedTypeName name="chapter20.Library.BookRepository"/>
     <fullyQualifiedTypeName name="chapter20.Library2.repository.UserRepository"/>
     <fullyQualifiedTypeName name="chapter20.Library2.controller.LibraryController"/>
-    <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="chapter20.reservation.service.ReservationService"/>
     <fullyQualifiedTypeName name="chapter20.reservation.controller.ReservationController"/>
-    <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="chapter20.reservation.model.Reservation"/>
     <fullyQualifiedTypeName name="chapter20.reservation.repository.ReservationRepository"/>
     <fullyQualifiedTypeName name="java.lang.Override"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="java.lang.Exception"/>
-    <fullyQualifiedTypeName name="korea_1_iot_jdbc.main.UserManager"/>
-    <fullyQualifiedTypeName name="korea_1_iot_jdbc.dao.UserDAO"/>
     <fullyQualifiedTypeName name="korea_1_iot_jdbc.entity.User"/>
-    <fullyQualifiedTypeName name="korea_1_iot_jdbc.db.DBConnection"/>
     <fullyQualifiedTypeName name="korea_1_iot.jdbc.dao.UserDAO"/>
     <fullyQualifiedTypeName name="korea_1_iot.jdbc.entity.User"/>
     <fullyQualifiedTypeName name="korea_1_iot.jdbc.main.UserManager"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.sql.ResultSet"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="org.checkerframework.checker.units.qual.s"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="korea_1_iot_jdbc.main.UserManager"/>
+    <fullyQualifiedTypeName name="java.lang.StringBuilder"/>
+    <fullyQualifiedTypeName name="java.sql.SQLException"/>
+    <fullyQualifiedTypeName name="korea_1_iot_jdbc.dao.UserDAO"/>
+    <fullyQualifiedTypeName name="java.sql.Connection"/>
+    <fullyQualifiedTypeName name="korea_1_iot_jdbc.db.DBConnection"/>
+    <fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
 </qualifiedTypeNameHistroy>
